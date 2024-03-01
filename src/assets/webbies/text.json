@@ -1,0 +1,101 @@
+{
+    "text": [
+        {
+            "title": "Current landscape:",
+            "descList": [
+                "Up to 25% of people that is about 95 million US citizens use a ridesharing service (Uber) once a month. The rideshare market size is projected to surpass $220 billion by 2025, at a rate of nearly 20% (Carsurance, via McKinsey & Company).",
+                "It had its genesis in New York City with the launch of Uber, in 2011, and the city has been particularly crucial to Uber and other rideshare services. In 2019, the Ride Share Guy estimated between 1.5 and 2.5 million Uber drivers in the US.",
+                "While seasoned drivers with access to good credit are generally more profitable with owning a dedicated ride-share car, a lot of newcomers with not so great credit, below average or new driving histories face trouble in acquiring one.",
+                "Around 85% of rideshare drivers in New York City are immigrants, and have little to no credit histories or bad credit, are generally not speakers of English as their first language, and generally do not have an educational degree beyond high-school from their home countries."
+            ]
+        },
+        {
+            "title": "Problem: Businesses that think they’re solving problems, but in reality creating more",
+            "descProblem": [
+                {
+                    "paragraph": "Over a whopping 40% of new drivers aspiring to join the ridesharing business are denied rental cars, and are left off the market, depriving them of an income, and cities of their service."
+                },
+                {
+                    "paragraph": "This problem occurs due to a combination of issues typically faced by immigrants who make up 85% of the rideshare drivers, language barriers, and exploitative business policies."
+                },
+                {
+                    "paragraph": "In the NYC area alone, American Lease, HyreCar, Dryve, Drive Sally, Buggy TLC, and Tower TLC are key players that provide car rental services to rideshare drivers, but none have even identified the issues, or have helped fix them in the past 9 years, that would have benefited their own businesses in the now-mature rideshare market."
+                },
+                {
+                    "subHeading": "Some of the issues the current players are part of:",
+                    "subHeadingData1": "Long approval times",
+                    "subHeadingData2": "Dependent on salespersons, and mandatory involvement",
+                    "subHeadingData3": "Pushing sales over addressing needs",
+                    "subHeadingData4": "Under-serving non-English speakers"
+                }
+            ]
+        },
+        {
+            "title": "Innovation: Automating and eliminating humans not only solves real problems, but eliminates unconscious biases",
+            "desc": [
+                {
+                    "paragraphs": "To solve the issues of immigrant-related complications, language barriers, and cruel business practices, we at GoMotopia.com came up with a simple, yet novel solution. We identified that if we took this process of vehicle choice, background screening and approval, and deal-transparency online, it would automatically solve multiple issues in one go."
+                },
+                {
+                    "subHeading": "Addressing language barriers: ",
+                    "subHeadingData": "Since user’s would generally have their browser languages set to their preferred language of communication, we didn’t have to worry about translations or mistranslations. This way all that is needed to know by the aspiring driver was informed by a react-tutorial."
+                },
+                {
+                    "subHeading": "Vehicle Choice: ",
+                    "subHeadingData": "Since there is no salesperson and their business targets involved, users have complete control in selecting their vehicle make, model, and year, and aren’t forced to accept a vehicle."
+                },
+                {
+                    "subHeading": "Background screening & Approval: ",
+                    "subHeadingData": "Automating the background screening and approval by having it complete online would address the issue of drivers understanding the approval process itself, and since there is no human interaction, all biases are eliminated in this process.",
+                    "subHeadingData1": "The screening process online takes in your driving license number and personal identifying information, corresponds it, and pulls your driving records from the licensing authorities via API.",
+                    "subHeadingData2": "Based on your driving history, points assigned, and violations, our system is designed to read the information and categorize you as a no-risk driver, low-medium risk driver, or a high-risk driver, and would approve you for the first two categories automatically, or if one was a high-risk driver, direct them to contact us in person to better understand their situation.",
+                    "subHeadingData3": "The deposit amount, weekly rent, and surcharges are then automatically determined based on the user’s risk category, and the system crafts their deal instantly."
+                },
+                {
+                    "subHeading": "Deal-transparency: ",
+                    "subHeadingData": "Approved drivers then move on to select and finalize their deal terms with all prices transparently displayed online, and up-front. This eliminated the need for a salesperson completely, subsequently eliminating the tendency of salespersons inflating prices on profiling potential customers’ need, and puts complete control of the choice of vehicle, deal-terms, and cost in the customer’s hand."
+                }
+            ]
+        },
+        {
+            "title": "Functionality: Busting barriers one after the other",
+            "desc": [
+                {
+                    "paragraphs": "The innovation resulted in a more effective, and efficient process for drivers and us."
+                },
+                {
+                    "subHeading": "Eliminating time barriers: ",
+                    "subHeadingData": "We cut the approval process time from days to mere minutes."
+                },
+                {
+                    "subHeading": "Eliminating distance barriers: ",
+                    "subHeadingData": "Aspiring drivers do not have to travel to, or physically be at a rental office, hence they get screened and approved, make a selection of their car, and finalize deal terms from wherever they are--which is most likely on the road or resting at home."
+                },
+                {
+                    "subHeading": "Eliminating Language barriers: ",
+                    "subHeadingData": "We no longer face language barriers, as all communication digitally on our website will be automatically translated to your preferred language, based on your browser’s language setting."
+                },
+                {
+                    "subHeading": "Eliminating trust barriers: ",
+                    "subHeadingData": "Since there is full transparency, more drivers prefer getting approved online and getting their deal terms and rates from the automated system."
+                },
+                {
+                    "subHeading": "Eliminating knowledge barriers: ",
+                    "subHeadingData": "Drivers are also educated about the approval system, and actively take measures to improve their driving records, so they are able to renegotiate a deal."
+                },
+                {
+                    "subHeading": "Social Distancing Barriers: ",
+                    "subHeadingData": "This system couldn’t be more suited to the COVID pandemic, as there is little to no interaction with another person."
+                }
+            ]
+        },
+        {
+            "title": "Business Effect: A Growth Story",
+            "descList": [
+                "Since launching, the number of booking requests online jumped by 80%.",
+                "We were able to convert over 30% of renters to purchasers, within 3 months of them renting, as their credit scores had drastically improved, allowing them access to financing.",
+                "Our income grew by 60% in just 5 months since our online system was made available to users, despite the pandemic."
+            ]
+        }
+    ]
+}

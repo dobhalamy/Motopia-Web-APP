@@ -1,0 +1,27 @@
+{
+    "text": [
+        {
+            "title": "Motopia's Lifetime Warranty*",
+            "descList": [
+                "Experience the joy of worry-free driving with Motopia's exclusive lifetime warranty that covers your car for unlimited miles and unlimited time for as long as you own the car, and at no cost to you."
+            ]
+        },
+        {
+            "title": "We've got you covered, for life!",
+            "descProblem": [
+                {
+                    "paragraph": "As vehicle technology has become more complex, repair costs have increased. A new engine can cost more than $3,000, and a new transmission can cost over $2,500 - not to mention how much it costs to fix or replace seals and gaskets, engine mounts, exhaust manifolds, wheel bearings, drive shafts, and many other components."
+                },
+                {
+                    "paragraph": "Motopia's Lifetime Warranty* covers these repairs and more on your engine, transmission, and drivetrain for unlimited miles and unlimited time with no deductible."
+                },
+                {
+                    "subHeading": "Benefits",
+                    "subHeadingData1": "Motopia's Lifetime Warranty* standard - at no cost to you",
+                    "subHeadingData2": "Coverage on engine, transmission, and drive train",
+                    "subHeadingData3": "Unlimited miles, unlimited time - for as long as you own the vehicle"
+                }
+            ]
+        }
+    ]
+}

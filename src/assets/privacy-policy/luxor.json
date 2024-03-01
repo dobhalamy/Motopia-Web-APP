@@ -1,0 +1,200 @@
+{
+  "tableOne": [
+    {
+      "title": "Facts",
+      "desc": "What does Luxor Motor Cars Inc. (referred to herein as “Luxor”, the “Company,” “we,” “us” or “our”), do with your personal information?"
+    },
+    {
+      "title": "Why?",
+      "desc": "Companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal and state law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do."
+    },
+    {
+      "title": "What?",
+      "descOne": "The types of personally identifiable information (“Personal Information”) that we and/or our Partners collect and share depend on the web form or feature you utilize or the product or service you have with us. This information can include:",
+      "listOne": [
+        "Contact information, such as name, e-mail address, postal address, and telephone number",
+        "Date of Birth",
+        "Social Security number",
+        "Income and financial account information, such as account balances, payment history, and credit history",
+        "Payment and identify verification information, such as credit card number, social security number or comparable national identifiers, and driver’s license number",
+        "Employment information",
+        "Unique identifiers, such as a customer number held in a cookie, an Internet Protocol (IP) address, a processor or device serial number, or other unique identifiers",
+        "Your location coordinates (longitude, latitude, and radius)",
+        "Recently Viewed Vehicles",
+        "Saved Vehicles for the purpose of receiving Price Change notifications"
+      ],
+      "descTwo": "When you are no longer our customer, we continue to share your Personal Information as described in this notice. In addition to collecting Personal Information, the Company and/or our Partners may use a variety of technologies that automatically collect General Information, which does not identify you personally. The types of General Information the Company and/or our Partners collect and share depend on the product or service you have with us. This information can include:",
+      "listTwo": [
+        "Cookies",
+        "Embedded Scripts such as Google Analytics",
+        "Web Beacons and/or \"Pixels\""
+      ]
+    },
+    {
+      "title": "How?",
+      "desc": "All companies need to share customers’ Personal Information to run their everyday business, including responding to customer inquiries and processing Finance Applications. Personal Information may be sold, shared or transferred to Partners and Third Parties including but not limited to Financial Institutions and Customer Relationship Managers (CRMs). In the section below, we list the reasons companies can share their customer’s Personal Information; the reasons Luxor chooses to share; and whether you can limit this sharing."
+    }
+  ],
+  "reasonsTable": {
+    "headerOne": "Reasons we can share your Personal Information with our Partners",
+    "headerTwo": "Does Luxor Share? *",
+    "headerThree": "Can you limit this sharing? *",
+    "rows": [
+      {
+        "title": "For our everyday business purposes-",
+        "desc": "Including but not limited to respond to customer inquiries, process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus",
+        "share": "YES",
+        "limit": "NO"
+      },
+      {
+        "title": "For our marketing purposes-",
+        "desc": "to offer our products and services to you",
+        "share": "YES",
+        "limit": "NO"
+      },
+      {
+        "title": "For joint marketing with other financial companies",
+        "share": "NO",
+        "limit": "NO"
+      },
+      {
+        "title": "For our affiliates to market to you-",
+        "desc": "information about your transactions and experiences",
+        "share": "NO",
+        "limit": "We do not share"
+      },
+      {
+        "title": "For our affiliates’ everyday business purposes-",
+        "desc": "information about your creditworthiness",
+        "share": "NO",
+        "limit": "We do not share"
+      },
+      {
+        "title": "For our nonaffiliates to market to you",
+        "share": "NO",
+        "limit": "We do not share"
+      }
+    ],
+    "additional": "* For California and Nevada residents please see below regarding opting out of your data being shared."
+  },
+  "tableTwo": [
+    {
+      "title": "To limit our sharing",
+      "descThree": "Email us at: <b>PrivacyPolicy@gomotopia.com</b>",
+      "descFour": "<b>Please note:</b> If you are a new customer, we can begin sharing your Personal Information [30] days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing."
+    },
+    {
+      "title": "Google Analytics",
+      "descThree": "For more information about Google Analytics and how it collects and uses data, please go to “How Google uses data when you use our partners' sites or apps”, located at <a href='https://policies.google.com/technologies/partner-sites' target='_blank'>https://policies.google.com/technologies/partner-sites</a>. To opt-out of Google Analytics at <a href='https://tools.google.com/dlpage/gaoptout' traget='_blank'>https://tools.google.com/dlpage/gaoptout</a>."
+    },
+    {
+      "title": "California & Nevada Residents",
+      "desc": "For more information on rights and information for California and Nevada residents please see below."
+    },
+    {
+      "title": "More Questions?",
+      "descThree": "<b>Call us at: 888-253-7171</b>"
+    }
+  ],
+  "whoWeAre": [
+    {
+      "title": "Who is providing this notice?",
+      "desc": "This notice is being provided by Luxor and our Partners."
+    }
+  ],
+  "whatWeDo": [
+    {
+      "title": "How does Luxor protect my Personal Information?",
+      "desc": "To protect your Personal Information from unauthorized access and use, we use security measures that comply with   federal law. These measures include computer safeguards and secured files and buildings."
+    },
+    {
+      "title": "How does Luxor collect my Personal Information?",
+      "descOne": "The Company and our Partners may collect your Personal Information, for example, when you:",
+      "listOne": [
+        "Apply for financing",
+        "Apply for a lease",
+        "Provide employment history",
+        "Give us your contact information",
+        "Show your driver’s license",
+        "Interact with us through the Company’s website"
+      ],
+      "descTwo": "The Company and our Partners may also collect your Personal Information from other third parties, such as credit bureaus, affiliates, non-affiliates, or other companies. The Personal Information you allow the Company and our Partners to access varies by source, and it is affected by the privacy policies established by those third parties. This Privacy Policy does not cover the practices of third parties, including those that may disclose Personal Information to the Company and/or our Partners. For more information about how those third parties handle your Personal Information, please refer to their privacy policies."
+    },
+    {
+      "title": "Why can’t I limit all sharing?",
+      "descOne": "Federal law gives you the right to limit only:",
+      "listOne": [
+        "sharing for affiliates’ everyday business purposes—information about your creditworthiness",
+        "affiliates from using your information to market to you",
+        "sharing for nonaffiliates to independently market to you"
+      ],
+      "descTwo": "State laws, such as California and Nevada, and individual companies may give you additional rights to limit sharing."
+    },
+    {
+      "title": "California & Nevada Residents",
+      "paragraphs": [
+        {
+          "title": "Request Copy of Data",
+          "desc": "Residents of the State of California or Nevada may request and obtain from us, once a year and free of charge, information about the Personal Information (if any) we have disclosed to third parties for direct marketing purposes in the preceding calendar year."
+        },
+        {
+          "title": "Request to Delete Data",
+          "desc": "You may request that your Personal Information (if any) be deleted. If your information was already sold, shared, or transferred to a Partner or Third Party (including but not limited to a Financial Institution or Costomer Relationship Manager (CRM)), additional requests may need to be sent to those Companies as well."
+        },
+        {
+          "title": "Do Not Sell / Opt Out",
+          "desc": "In order to submit a Web Form or Finance Application you must indicate that you \"Opt In\" to having your information sold, shared, or transferred. In order to \"Opt Out\" from having your information sold, shared, or transferred you must refrain from submitting a Web Form or Finance Application as that type of action implies that you are opting in. Personal Information is not shared unless a Web Form or Finance Application is submitted."
+        },
+        {
+          "descOne": "If you are a California or Nevada resident and would like to make such a request, please submit your request in writing to:",
+          "descTwo": "For all requests, you must put the statement \"California Privacy Rights\" or \"Nevada Privacy Rights\" in the body and/or subject of your request as well as your full name, street address, city, state, and zip code. Lack of proper identifying information may result in us not finding a match for your Personal Information. Please note requests must be made by mail or e-mail. We are not responsible for notices that are not labeled or sent properly, or that do not have complete information or postage."
+        }
+      ],
+      "contacts": [
+        "ATTN: Legal",
+        "Luxor",
+        "405 RXR PLAZA",
+        "UNIONDALE, NY 11556",
+        "or E-mail us at: PrivacyPolicy@gomotopia.com"
+      ]
+    },
+    {
+      "title": "Children",
+      "desc": "Luxor does not knowingly allow anyone under the age of 16 to participate in any services offered on our website which require the submission of Personal Information including but not limited to Web Forms or Financial Applications. If we learn that a user is under 16 and has submitted Personal Information to us, we will delete their Personal Information."
+    },
+    {
+      "title": "SMS Terms and Conditions",
+      "descOne": "From time to time, on a recurring basis, Luxor may contact you via email and or SMS texting for the purpose of providing account information, announcements, vehicle alerts, and/or other general account related communication.",
+      "descTwo": "You may text HELP for help, text STOP to cancel.   Message and data rates may apply."
+    }
+  ],
+  "definitions": [
+    {
+      "title": "Affiliates",
+      "desc": "Companies related by common ownership or control. They can be financial and nonfinancial companies.",
+      "list": ["Luxor does not share with our affiliates."]
+    },
+    {
+      "title": "Nonaffiliates",
+      "desc": "Companies not related by common ownership or control. They can be financial and nonfinancial companies.",
+      "list": [
+        "Luxor does not share with nonaffiliates so they can market to you except for joint marketing arrangements as described below."
+      ]
+    },
+    {
+      "title": "Joint marketing",
+      "desc": "A formal agreement between nonaffiliated financial companies that together market financial products or services to you.",
+      "list": [
+        "If we have any joint marketing arrangements, our joint marketing partners may include the manufacturer affiliated lenders or other lenders."
+      ]
+    },
+    {
+      "title": "Partner",
+      "desc": "Any person or entity with whom the Company enters into any kind of business transaction who is under an obligation to us to use reasonable care to keep Personal Information confidential, which may include our affiliates, nonaffiliates, and those with whom we joint-market."
+    }
+  ],
+  "other": {
+    "title": "Other important information regarding changes to this Privacy Policy",
+    "desc": "The Company reserves the right to change, modify or amend this Privacy Policy at any time to reflect changes in practices and service offerings. If the Company modifies this Privacy Policy, the Company will update the “Effective Date” and such changes will be effective upon posting. Your continued use of the Company’s website following such material changes requires your affirmative consent to the changes. If you do not agree to the changes, your sole remedy is to cease using the Company’s products, services, and website. It is your responsibility to periodically check and review this Privacy Policy for changes."
+  }
+}

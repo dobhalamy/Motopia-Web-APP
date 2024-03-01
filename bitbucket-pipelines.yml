@@ -1,0 +1,36 @@
+image: node:14.15.0
+clone:
+ depth: full
+
+pipelines:
+  branches:
+    master:
+      - step:
+          caches:
+            - node
+          name: Deployment to domain
+          deployment: production
+          script:
+          - pwd
+          - npm init --yes
+          - echo "web:"" yarn start" > Procfile
+          - ls -al #checking the package.json exists in current directory
+          - cat Procfile #check the command for Heroku run
+          - git add .
+          - git commit -m 'Procfile'
+          - git push --force https://heroku:$HEROKU_HOST_LIVE@git.heroku.com/$HEROKU_USER_LIVE.git HEAD:master
+    staging:
+      - step:
+          caches:
+            - node
+          name: Deployment to domain
+          deployment: staging
+          script:
+          - pwd
+          - npm init --yes
+          - echo "web:"" yarn start:staging" > Procfile
+          - ls -al #checking the package.json exists in current directory
+          - cat Procfile #check the command for Heroku run
+          - git add .
+          - git commit -m 'Procfile'
+          - git push --force https://heroku:$HEROKU_HOST@git.heroku.com/$HEROKU_USER.git HEAD:master
